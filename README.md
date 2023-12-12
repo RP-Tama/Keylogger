@@ -1,7 +1,17 @@
 # Keylogger Menggunakan Python dengan Pynput
 
-Skrip Python ini berfungsi sebagai keylogger sederhana yang menggunakan perpustakaan Pynput. Ini menangkap dan mencatat ketukan tombol ke dalam file teks untuk analisis lebih lanjut. Harap dicatat bahwa penggunaan keylogger tanpa izin tertulis adalah tidak etis dan dapat melanggar hukum. Pastikan Anda memiliki izin yang tepat sebelum menggunakan atau mendistribusikan alat seperti ini.
+Skrip Python ini berfungsi sebagai keylogger sederhana yang menggunakan perpustakaan Pynput. Ini menangkap dan mencatat ketukan tombol ke dalam file teks untuk analisis lebih lanjut. 
 
+Sebagai introduksi, keylogger adalah alat yang dapat digunakan dalam penerapan keamanan jaringan komputer. Keylogger memiliki beberapa fungsi sebagai berikut:
+
+1. Investigasi Insiden Keamanan: Keylogger dapat digunakan sebagai alat forensik untuk menyelidiki insiden keamanan. Dengan merekam aktivitas keyboard, peneliti keamanan dapat mencari tahu cara serangan terjadi, memahami alur serangan, dan mengidentifikasi sumber masalah.
+
+2. Pendeteksian Ancaman: Keylogger dapat membantu dalam mendeteksi ancaman keamanan dengan merekam aktivitas yang mencurigakan, seperti upaya login yang gagal, penggunaan kata sandi yang tidak valid, atau aktivitas lain yang dapat mengindikasikan serangan.
+
+3. Pengujian Keamanan: Ahli keamanan sering menggunakan keylogger sebagai alat uji penetrasi untuk mengevaluasi kekuatan dan kelemahan sistem keamanan. Dengan merekam aktivitas keyboard, mereka dapat menilai sejauh mana sistem dapat menahan serangan atau apakah ada celah keamanan yang perlu diperbaiki.
+Peringatan Dini Terhadap Ancaman Keamanan: Keylogger dapat membantu dalam mendeteksi dan memberikan peringatan dini terhadap ancaman keamanan, seperti serangan malware atau upaya phishing, yang mungkin mencoba mencuri informasi pribadi atau kredensial login.
+
+4. Penelitian Keamanan: Keylogger dapat digunakan oleh para peneliti keamanan untuk mengumpulkan data tentang ancaman baru dan teknik serangan yang muncul, sehingga mereka dapat mengembangkan solusi keamanan yang lebih efektif.
 ## Persyaratan
 
 Sebelum menjalankan skrip, pastikan Anda telah menginstal dependensi yang diperlukan. Anda dapat menginstalnya menggunakan perintah berikut:
@@ -15,7 +25,7 @@ pip install pynput
 1. Klon repository:
 
     ```bash
-    git clone https://github.com/nama-pengguna-anda/keylogger.git
+    git clone https://github.com/RP-Tama/Keylogger.git
     ```
 
 2. Pindah ke direktori proyek:
