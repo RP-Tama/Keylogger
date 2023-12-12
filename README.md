@@ -1,4 +1,12 @@
 # Keylogger Menggunakan Python dengan Pynput
+Github ini dibuat sebagai pemenuhan tugas kelas Keamanan Jaringan Komputer (ET234302) 2023, Departemen Teknologi Informasi, Institut Teknologi Sepuluh Nopember
+
+## Anggota kelompok Keamanan jaringan komputer
+Muhammad Dzakwan 5027201065
+Fransiskus Benyamin S 5027211021
+Muhamad Ilham Yumna 5027211024
+Raditya Pratama 5027211047
+Wisnu Adjie Saka 5027211051
 
 Skrip Python ini berfungsi sebagai keylogger sederhana yang menggunakan perpustakaan Pynput. Ini menangkap dan mencatat ketukan tombol ke dalam file teks untuk analisis lebih lanjut. 
 
@@ -72,13 +80,3 @@ Anda dapat memodifikasi skrip ini sesuai kebutuhan Anda. Beberapa penyesuaian ya
 logging.basicConfig(filename=(log_dir + "keylogs.txt"), \
     level=logging.DEBUG, format='%(asctime)s: %(message)s')
 ```
-
-## Penyangkalan
-
-Skrip ini ditujukan untuk tujuan pendidikan dan informasi saja. Ketahui implikasi hukumnya dan selalu peroleh izin yang sesuai sebelum menggunakan atau mendistribusikan keylogger.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detailnya.
-
----
