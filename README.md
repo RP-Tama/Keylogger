@@ -2,11 +2,11 @@
 Github ini dibuat sebagai pemenuhan tugas kelas Keamanan Jaringan Komputer (ET234302) 2023, Departemen Teknologi Informasi, Institut Teknologi Sepuluh Nopember
 
 ## Anggota kelompok Keamanan jaringan komputer
-Muhammad Dzakwan 5027201065
-Fransiskus Benyamin S 5027211021
-Muhamad Ilham Yumna 5027211024
-Raditya Pratama 5027211047
-Wisnu Adjie Saka 5027211051
+- Muhammad Dzakwan 5027201065
+- Fransiskus Benyamin S 5027211021
+- Muhamad Ilham Yumna 5027211024
+- Raditya Pratama 5027211047
+- Wisnu Adjie Saka 5027211051
 
 Skrip Python ini berfungsi sebagai keylogger sederhana yang menggunakan perpustakaan Pynput. Ini menangkap dan mencatat ketukan tombol ke dalam file teks untuk analisis lebih lanjut. 
 
