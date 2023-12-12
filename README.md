@@ -39,7 +39,7 @@ pip install pynput
 2. Pindah ke direktori proyek:
 
     ```bash
-    cd keylogger
+    cd Keylogger
     ```
 
 3. Instal paket Python yang diperlukan:
